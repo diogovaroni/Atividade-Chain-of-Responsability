@@ -17,12 +17,12 @@ Neste sistema:
 
 ## 🏗️ Estrutura do Projeto
 ```
-📂 chain-of-responsibility-logs
-├── LogMessage.java
-├── LogHandler.java
-├── DebugHandler.java
-├── InfoHandler.java
-├── WarningHandler.java
-├── ErrorHandler.java
-└── SistemaLogs.java
+src/
+ ├── LogMessage.java
+ ├── LogHandler.java
+ ├── DebugHandler.java
+ ├── InfoHandler.java
+ ├── WarningHandler.java
+ ├── ErrorHandler.java
+ └── Main.java
 ```
